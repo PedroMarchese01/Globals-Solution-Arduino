@@ -39,7 +39,7 @@ O projeto visa fornecer uma solução acessível, eficiente e prática para o mo
 
 Além disso, está estruturado para permitir fácil integração futura com APIs web, possibilitando que dados de monitoramento sejam transmitidos em tempo real a sistemas da Defesa Civil ou plataformas públicas de monitoramento climático.
 
-![Imagem do circuito montado no Wokwi](./imagem%20do%20projeto.png)
+![Imagem do circuito montado no Wokwi](./Images/imagem%20do%20projeto.png)
 
 ## ✨ Funcionalidades
 
@@ -48,7 +48,7 @@ Além disso, está estruturado para permitir fácil integração futura com APIs
 - 📶 **API (Futura Atualização):** Estrutura preparada para envio de dados a um servidor web.  
 - 🖥️ **Monitor Serial:** Exibe leitura do nivel da água e alertas.
 
-![Exemplo de saída no Monitor Serial]()
+![Exemplo de saída no Monitor Serial](./Images/monitor%20serial.png)
 
 ---
 
