@@ -66,7 +66,7 @@ cd monitoramento-nivel-agua
 |----------------|--------|---------|
 | Pedro Marchese | 563339 | [GitHub](https://github.com/PedroMarchese01) |
 | Enzo Augusto   | 562249 | [GitHub](https://github.com/Enzoo-August)    |
-| Gabriel Salles | 563584 | [GitHub](https://github.com/eubielrsalles)    |
+| Gabriel Salles | 563584 | [GitHub](https://github.com/gabrielrsalles)  |
 
 
 ---
