@@ -1,5 +1,5 @@
 # 📋 Sistema de Monitoramento de Nível de Água
-
+> Projeto de monitoramento de nível de água com sensor ultrassônico e sistema de alerta.
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue)](LICENSE) 
 
 ## 🔧 Projeto no Tinkercad  
@@ -10,7 +10,6 @@
 ## 📹 Vídeo Demonstrativo  
 [▶️ **Clique aqui para assistir ao vídeo demonstrativo**](https://youtu.be/EVlGEo8pNak)
 
-> Projeto de monitoramento de nível de água com sensor ultrassônico e sistema de alerta.
 
 ## 📝 Índice
 
