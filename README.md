@@ -3,7 +3,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue)](LICENSE) 
 
 [**Tinkercad: Clique aqui para ver o projeto**](https://www.tinkercad.com/things/bM5BVSByasZ-arduino-gs-niveis-de-agua?sharecode=yaPSDWxXAluogEA6vsUCcbZsX9C7PxVagP35QVrWj0E)
-
+[**Video demonstrativo no youtube: Clique aqui para ver o video**](https://www.tinkercad.com/things/bM5BVSByasZ-arduino-gs-niveis-de-agua?sharecode=yaPSDWxXAluogEA6vsUCcbZsX9C7PxVagP35QVrWj0E)
+https://youtu.be/EVlGEo8pNak
 > Projeto de monitoramento de nível de água com sensor ultrassônico e sistema de alerta.
 
 ## 📝 Índice
