@@ -46,9 +46,9 @@ Além disso, está estruturado para permitir fácil integração futura com APIs
 - 🎯 **Medição de nível de água:** Utiliza sensor ultrassônico HC-SR04.  
 - 🚨 **Sistema de alerta:** Buzzer e LED acionados quando o nível ultrapassa 60%.  
 - 📶 **API (Futura Atualização):** Estrutura preparada para envio de dados a um servidor web.  
-- 🖥️ **Monitor Serial:** Exibe leituras e percentual de ocupação.
+- 🖥️ **Monitor Serial:** Exibe leitura do nivel da água e alertas.
 
-![Exemplo de saída no Monitor Serial](https://user-images.githubusercontent.com/yourusername/serial-monitor-output.png)
+![Exemplo de saída no Monitor Serial]()
 
 ---
 
