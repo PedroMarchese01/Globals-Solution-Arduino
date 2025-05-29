@@ -13,10 +13,6 @@
 
 ---
 
-
-![image](https://github.com/user-attachments/assets/d228a10f-e6db-4897-a15c-da2927c4872c)
-
-
 ## ✨ Funcionalidades
 
 - 🎯 **Medição de nível de água:** Utiliza sensor ultrassônico HC-SR04.  
