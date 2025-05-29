@@ -1,6 +1,7 @@
 # 📋 Sistema de Monitoramento de Nível de Água
-> Projeto de monitoramento de nível de água com sensor ultrassônico e sistema de alerta.
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue)](LICENSE) 
+> Projeto de monitoramento de nível de água com sensor ultrassônico e sistema de alerta.  
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue)](LICENSE)
+---
 
 ## 🔧 Projeto no Tinkercad  
 [👉 **Clique aqui para ver o projeto no Tinkercad**](https://www.tinkercad.com/things/bM5BVSByasZ-arduino-gs-niveis-de-agua?sharecode=yaPSDWxXAluogEA6vsUCcbZsX9C7PxVagP35QVrWj0E)
@@ -10,19 +11,18 @@
 ## 📹 Vídeo Demonstrativo  
 [▶️ **Clique aqui para assistir ao vídeo demonstrativo**](https://youtu.be/EVlGEo8pNak)
 
-
 ## 📝 Índice
 
 1. [🧩 Descrição Completa do Problema](#-descrição-completa-do-problema)  
-2. [✨ Funcionalidades](#-funcionalidades)  
-3. [🚀 Instalação Rápida](#-instalação-rápida)  
-4. [⚙️ Como Usar](#️-como-usar)  
-5. [💡 Personalização](#-personalização)  
-6. [👥 Autores](#-autores)  
-7. [🛡️ Licença](#️-licença)
+2. [🔭 Visão Geral da Solução](#-visão-geral-da-solução)  
+3. [✨ Funcionalidades](#-funcionalidades)  
+4. [🚀 Instalação Rápida](#-instalação-rápida)  
+5. [⚙️ Como Usar](#️-como-usar)  
+6. [💡 Personalização](#-personalização)  
+7. [👥 Autores](#-autores)  
+8. [🛡️ Licença](#️-licença)
 
 ---
-
 ## 🧩 Descrição Completa do Problema
 
 Nos últimos anos, eventos climáticos extremos — como enchentes e alagamentos — tornaram-se cada vez mais frequentes, causando prejuízos materiais, colocando vidas em risco e sobrecarregando órgãos de resposta emergencial, como a Defesa Civil. A ausência de sistemas preventivos e de monitoramento acessíveis em comunidades vulneráveis agrava ainda mais esse cenário.
@@ -33,14 +33,22 @@ A proposta deste projeto é desenvolver uma **solução prática com sensor ultr
 
 Dessa forma, nosso sistema contribui com uma **resposta ágil e comunitária ao risco de alagamentos**, promovendo **segurança, conscientização e autonomia tecnológica** nas comunidades.
 
----
+## 🔭 Visão Geral da Solução
+
+O projeto visa fornecer uma solução acessível, eficiente e prática para o monitoramento do nível de água em locais com risco de enchentes, como margens de rios ou áreas urbanas suscetíveis. Utilizando o sensor ultrassônico HC-SR04 conectado a um microcontrolador Arduino, o sistema realiza medições contínuas da altura da água e aciona alertas visuais e sonoros (LED e buzzer) ao identificar níveis críticos. 
+
+Além disso, está estruturado para permitir fácil integração futura com APIs web, possibilitando que dados de monitoramento sejam transmitidos em tempo real a sistemas da Defesa Civil ou plataformas públicas de monitoramento climático.
+
+![Imagem do circuito montado no Wokwi](./imagem%20do%20projeto.png)
 
 ## ✨ Funcionalidades
 
 - 🎯 **Medição de nível de água:** Utiliza sensor ultrassônico HC-SR04.  
 - 🚨 **Sistema de alerta:** Buzzer e LED acionados quando o nível ultrapassa 60%.  
-📶 **API (Futura Atualização):** Embora o escopo do nosso projeto inclua a comunicação com uma API para envio de dados em tempo real ao site da Global Solution — com o objetivo de alertar a Defesa Civil em casos de alagamento — essa funcionalidade ainda não foi implementada devido à falta de conhecimento técnico sobre integração via API. No entanto, o código está estruturado para facilitar essa adição futura, permitindo que sensores físicos enviem os dados diretamente ao sistema web.  
-- 🖥️ **Monitor Serial:** Imprime distância somente quando muda e exibe percentual de nível.
+- 📶 **API (Futura Atualização):** Estrutura preparada para envio de dados a um servidor web.  
+- 🖥️ **Monitor Serial:** Exibe leituras e percentual de ocupação.
+
+![Exemplo de saída no Monitor Serial](https://user-images.githubusercontent.com/yourusername/serial-monitor-output.png)
 
 ---
 
@@ -56,9 +64,10 @@ cd monitoramento-nivel-agua
 # Abra o projeto na IDE do Arduino ou VS Code
 # Carregue o sketch codigo.ino na sua placa Arduino
 ```
+
 ## ⚙️ Como Usar
 
-- Conecte o sensor **HC-SR04** aos pinos definidos no sketch:
+- Conecte o sensor **HC-SR04** aos pinos definidos no sketch:  
   - Trig → 9  
   - Echo → 10  
 
@@ -89,7 +98,6 @@ cd monitoramento-nivel-agua
 | Pedro Marchese | 563339 | [GitHub](https://github.com/PedroMarchese01) |
 | Enzo Augusto   | 562249 | [GitHub](https://github.com/Enzoo-August)    |
 | Gabriel Salles | 563584 | [GitHub](https://github.com/gabrielrsalles)  |
-
 
 ---
 
