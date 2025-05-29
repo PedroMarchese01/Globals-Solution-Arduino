@@ -13,12 +13,25 @@
 
 ## 📝 Índice
 
-1. [✨ Funcionalidades](#-funcionalidades)  
-2. [🚀 Instalação Rápida](#-instalação-rápida)  
-3. [⚙️ Como Usar](#️-como-usar)  
-4. [💡 Personalização](#-personalização)  
-5. [👥 Autores](#-autores)  
-6. [🛡️ Licença](#️-licença)
+1. [🧩 Descrição Completa do Problema](#-descrição-completa-do-problema)  
+2. [✨ Funcionalidades](#-funcionalidades)  
+3. [🚀 Instalação Rápida](#-instalação-rápida)  
+4. [⚙️ Como Usar](#️-como-usar)  
+5. [💡 Personalização](#-personalização)  
+6. [👥 Autores](#-autores)  
+7. [🛡️ Licença](#️-licença)
+
+---
+
+## 🧩 Descrição Completa do Problema
+
+Nos últimos anos, eventos climáticos extremos — como enchentes e alagamentos — tornaram-se cada vez mais frequentes, causando prejuízos materiais, colocando vidas em risco e sobrecarregando órgãos de resposta emergencial, como a Defesa Civil. A ausência de sistemas preventivos e de monitoramento acessíveis em comunidades vulneráveis agrava ainda mais esse cenário.
+
+O problema identificado neste projeto é **a falta de um meio simples, eficiente e de baixo custo para monitorar o nível de água em áreas suscetíveis a alagamentos**, seja em rios, reservatórios ou regiões urbanas com histórico de enchentes.  
+
+A proposta deste projeto é desenvolver uma **solução prática com sensor ultrassônico**, capaz de detectar o aumento do nível da água e **acionar alertas locais imediatos**, além de **prover a possibilidade de integração com uma API web**, permitindo que autoridades ou plataformas online recebam os dados em tempo real para tomada de decisão.
+
+Dessa forma, nosso sistema contribui com uma **resposta ágil e comunitária ao risco de alagamentos**, promovendo **segurança, conscientização e autonomia tecnológica** nas comunidades.
 
 ---
 
